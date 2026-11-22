@@ -2,7 +2,7 @@
 
 **AI needs delivery. Delivery needs AI.**
 
-Full Circle Delivery (FCD) is een model om software te leveren dat de hele cirkel rond gaat: van intentie via proces en product naar leren. Meer op de site: https://fcd-labs.github.io/fcd/
+Full Circle Delivery (FCD) is een model om software te leveren dat de hele cirkel rond gaat: van intentie via delivery en product naar leren. Meer op de site: https://fcd-labs.github.io/fcd/
 
 ## Showcases
 
